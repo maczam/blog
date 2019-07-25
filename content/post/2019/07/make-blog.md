@@ -1,5 +1,5 @@
 ---
-title: "Hugo搭建Githug静态Blog"
+title: "Hugo搭建Github静态Blog"
 date: 2019-07-25T16:45:53+08:00
 tags: ["Hugo"]
 categories: ["杂技"]

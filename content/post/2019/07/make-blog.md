@@ -1,17 +1,19 @@
 ---
-title: "Hugo搭建blog"
+title: "Hugo搭建Githug静态Blog"
 date: 2019-07-25T16:45:53+08:00
 tags: ["Hugo"]
 categories: ["杂技"]
 ---
 
 一直都有搭建blog的想法，最近研究了静态博客系统。主要想法是依赖于github，其中有两个github pages和github issues思路。
-  那问题了来了，什么是github pages？ github pages是github提供一个在线服务，可以将github仓库里面的静态资源（html、markdwon）渲染成也页面，帮你生成一个二级域名，甚至可以绑定自己域名。所以使用pages的人最多。为什么有些框架可以使用github的issues能构建出漂亮的静态站点，甚至动态的呢？框架拉取你的issues信息，并转化成html保存到github上，然后在使用pages服务，具体如何使用，https://www.v2ex.com/amp/t/566714这里有介绍。更有一些激进的人直接issues系统，只做一些记录。我最终的选择直接pages服务来搭建，
-  大方向选定以后，开始选中框架，我喜欢一些从简，所以我选择hugo，编写工具使用Typora，图床使用阿里的oss，毕竟国内访问的多。 下面就开始我的搭建之路
+
+那问题了来了，什么是github pages？ github pages是github提供一个在线服务，可以将github仓库里面的静态资源（html、markdwon）渲染成也页面，帮你生成一个二级域名，甚至可以绑定自己域名。所以使用pages的人最多。为什么有些框架可以使用github的issues能构建出漂亮的静态站点，甚至动态的呢？框架拉取你的issues信息，并转化成html保存到github上，然后在使用pages服务，具体如何使用，这里有介绍<https://www.v2ex.com/amp/t/566714>。更有一些激进的人直接issues系统，只做一些记录。我最终的选择直接pages服务来搭建，
+
+大方向选定以后，开始选中框架，我喜欢一些从简，所以我选择hugo，编写工具使用Typora，图床使用阿里的oss，毕竟国内访问的多。 下面就开始我的搭建之路。
 
 
 
-   具体安装过程，参考https://www.gohugo.org/，下面我只说我才过的一些坑，和我的系统构架。
+具体安装过程，参考<https://www.gohugo.org>，下面我只说我才过的一些坑，和我的系统构架。
 
 # git仓库构建
 

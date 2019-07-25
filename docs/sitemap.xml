@@ -1,72 +1,72 @@
-<?xml-stylesheet type="text/xsl" href="http://www.hexin.me/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.hexin.me/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.hexin.me/categories/</loc>
+    <loc>https://www.hexin.me/categories/</loc>
     <lastmod>2019-07-25T16:45:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/tags/hugo/</loc>
+    <loc>https://www.hexin.me/tags/hugo/</loc>
     <lastmod>2019-07-25T16:45:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/post/2019/07/make-blog/</loc>
+    <loc>https://www.hexin.me/post/2019/07/make-blog/</loc>
     <lastmod>2019-07-25T16:45:53+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/</loc>
-    <lastmod>2019-07-25T16:45:53+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hexin.me/post/</loc>
+    <loc>https://www.hexin.me/</loc>
     <lastmod>2019-07-25T16:45:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/tags/</loc>
+    <loc>https://www.hexin.me/post/</loc>
     <lastmod>2019-07-25T16:45:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/categories/%E6%9D%82%E6%8A%80/</loc>
+    <loc>https://www.hexin.me/tags/</loc>
     <lastmod>2019-07-25T16:45:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/post/2019/07/test/</loc>
+    <loc>https://www.hexin.me/categories/%E6%9D%82%E6%8A%80/</loc>
+    <lastmod>2019-07-25T16:45:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hexin.me/post/2019/07/test/</loc>
     <lastmod>2019-07-25T13:51:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/categories/blog/</loc>
-    <lastmod>2019-07-25T13:51:05+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.hexin.me/tags/markdown/</loc>
+    <loc>https://www.hexin.me/categories/blog/</loc>
     <lastmod>2019-07-25T13:51:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/categories/test/</loc>
+    <loc>https://www.hexin.me/tags/markdown/</loc>
     <lastmod>2019-07-25T13:51:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.hexin.me/tags/test/</loc>
+    <loc>https://www.hexin.me/categories/test/</loc>
+    <lastmod>2019-07-25T13:51:05+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hexin.me/tags/test/</loc>
     <lastmod>2019-07-25T13:51:05+08:00</lastmod>
     <priority>0</priority>
   </url>

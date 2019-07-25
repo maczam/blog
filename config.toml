@@ -1,4 +1,4 @@
-baseURL = "http://www.hexin.me"
+baseURL = "https://www.hexin.me"
 languageCode = "en-us"
 title = "My Blog"
 publishDir = "docs" 

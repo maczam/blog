@@ -1,0 +1,28 @@
+baseURL = "http://www.hexin.me"
+languageCode = "en-us"
+title = "My Blog"
+publishDir = "docs" 
+theme = "jane"
+
+[author]                  # essential                     # 必需
+  name = "贺鑫"
+[[menu.main]]             # config your menu              # 配置目录
+  name = "This is Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"

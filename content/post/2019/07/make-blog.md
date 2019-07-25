@@ -92,5 +92,3 @@ https://help.github.com/articles/troubleshooting-jekyll-builds
 
 因为我没有使用Jekyll服务，使用的hugo。我们只用仓库根目录下面创建“.nojekyll”空文件即可。
 
-
-# 后续更新如何开始https支持

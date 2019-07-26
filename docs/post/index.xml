@@ -6,10 +6,20 @@
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 13:51:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 17:51:05 +0800</lastBuildDate>
     
 	<atom:link href="https://www.hexin.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>目标计划</title>
+      <link>https://www.hexin.me/post/2019/07/todu/</link>
+      <pubDate>Fri, 26 Jul 2019 17:51:05 +0800</pubDate>
+      
+      <guid>https://www.hexin.me/post/2019/07/todu/</guid>
+      <description> 这里只是列了一些flag，激励自己努力完成。
+填坑 源码&amp;amp;框架  etcd &amp;amp; zookeeper nsq fasthttp gin 等&amp;hellip;.  算法  一致性算法 一致性hash 红黑树 btree lr  阅读  https://i6448038.github.io/2019/04/11/go-channel  </description>
+    </item>
     
     <item>
       <title>Raft 为什么是更易理解的分布式一致性算法</title>

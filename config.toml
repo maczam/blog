@@ -31,9 +31,13 @@ theme = "jane"
 [params]
   since = "2018"            # Site creation time          # 站点建立时间
   keywords = ["Golang", "Java","IT技术","软件架构","程序员"]
+  description = "一个架构师日常"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
+
+  homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
+  rssFullContent = true     # if false, Rss feed instead of the summary
 
   # enable 'fork me on github', https://blog.github.com/2008-12-19-github-ribbons/
   forkMeOnGithub = "https://github.com/maczam/blog"
@@ -41,6 +45,16 @@ theme = "jane"
   # show word count and read time ?                       # 是否显示字数统计与阅读时间
   moreMeta = true
 
+
+   # show language chooser in menu
+  showMenuLanguageChooser = true
+
+  showAuthorInfo = true # show author info below the article
+
   baidu_push = false        # baidu push                  # 百度
   baidu_analytics = "6d305cef0aa86bae59073e50219dbdc2"      # Baidu Analytics
   baidu_verification = ""   # Baidu Verification
+
+
+[params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
+    enable = true

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Blog</title>
-    <link>https://www.hexin.me/post/</link>
-    <description>Recent content in Posts on My Blog</description>
+    <title>算法 on My Blog</title>
+    <link>https://www.hexin.me/categories/%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 算法 on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jul 2019 13:51:05 +0800</lastBuildDate>
     
-	<atom:link href="https://www.hexin.me/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hexin.me/categories/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -34,30 +34,6 @@ Lamport 一直研究这类问题，发表了一系列论文。但综合总结一
 #Raft 协议的易理解性描述
 虽然 Raft 的论文比 Paxos 简单版论文还容易读了，但论文依然发散的比较多，相对冗长。读完后掩卷沉思觉得还是整理一下才会更牢靠，变成真正属于自己的。这里我就借助前面黑白棋落子里第一种极简思维来描述和概念验证下 Raft 协议的工作方式。
 在一个由 Raft 协议组织的集群中有三类角色：</description>
-    </item>
-    
-    <item>
-      <title>Hugo搭建Github静态Blog</title>
-      <link>https://www.hexin.me/post/2019/07/make-blog/</link>
-      <pubDate>Thu, 25 Jul 2019 16:45:53 +0800</pubDate>
-      
-      <guid>https://www.hexin.me/post/2019/07/make-blog/</guid>
-      <description>一直都有搭建blog的想法，最近研究了静态博客系统。主要想法是依赖于github，其中有两个github pages和github issues思路。
-那问题了来了，什么是github pages？ github pages是github提供一个在线服务，可以将github仓库里面的静态资源（html、markdwon）渲染成也页面，帮你生成一个二级域名，甚至可以绑定自己域名。所以使用pages的人最多。为什么有些框架可以使用github的issues能构建出漂亮的静态站点，甚至动态的呢？框架拉取你的issues信息，并转化成html保存到github上，然后在使用pages服务，具体如何使用，这里有介绍https://www.v2ex.com/amp/t/566714。更有一些激进的人直接issues系统，只做一些记录。我最终的选择直接pages服务来搭建，
-大方向选定以后，开始选中框架，我喜欢一些从简，所以我选择hugo，编写工具使用Typora，图床使用阿里的oss，毕竟国内访问的多。 下面就开始我的搭建之路。
-具体安装过程，参考https://www.gohugo.org，下面我只说我才过的一些坑，和我的系统构架。
-git仓库构建 仓库目录结构 drwxr-xr-x 15 hexin staff 480B 7 25 14:13 . drwxr-xr-x 18 hexin staff 576B 7 25 13:21 .. drwxr-xr-x 14 hexin staff 448B 7 25 16:28 .git -rw-r--r-- 1 hexin staff 100B 7 25 13:43 .gitmodules -rw-r--r-- 1 hexin staff 0B 7 25 14:13 .nojekyll drwxr-xr-x 3 hexin staff 96B 7 25 14:02 archetypes -rw-r--r-- 1 hexin staff 615B 7 25 14:01 config.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://www.hexin.me/post/2019/07/test/</link>
-      <pubDate>Thu, 25 Jul 2019 13:51:05 +0800</pubDate>
-      
-      <guid>https://www.hexin.me/post/2019/07/test/</guid>
-      <description> 第一篇blog测试 我是测试内容
- 2019年测试
- </description>
     </item>
     
   </channel>

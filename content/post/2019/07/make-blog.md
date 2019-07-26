@@ -52,7 +52,8 @@ config.toml 文件增加
 
 deploy.sh 脚本
 
-``` sh
+```go
+
 #!/bin/sh
 
 # If a command fails then the deploy stops
@@ -76,7 +77,10 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
 ```
+
+
 
 #  遇见一些错误
 ##  Page build failure

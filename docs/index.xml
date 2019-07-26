@@ -262,7 +262,8 @@ Leslie Lamport 在三十多年前发表的论文《拜占庭将军问题》（�
 
 &lt;p&gt;deploy.sh 脚本&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;#!/bin/sh
+&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;
+#!/bin/sh
 
 # If a command fails then the deploy stops
 set -e
@@ -285,6 +286,7 @@ git commit -m &amp;quot;$msg&amp;quot;
 
 # Push source and build repos.
 git push origin master
+
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h1 id=&#34;遇见一些错误&#34;&gt;遇见一些错误&lt;/h1&gt;

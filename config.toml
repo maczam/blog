@@ -55,6 +55,13 @@ theme = "jane"
   baidu_analytics = "6d305cef0aa86bae59073e50219dbdc2"      # Baidu Analytics
   baidu_verification = ""   # Baidu Verification
 
+[params.social]                                         # 社交链接
+    a-email = "mailto:maczam@163.com"
+    g-github = "https://github.com/maczam"
+
+[params.reward]                                         # 文章打赏
+    enable = false
+    wechat = "/static/wechat_me.jpeg"           # 微信二维码
 
 [params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
     enable = true

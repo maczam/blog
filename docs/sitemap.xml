@@ -3,25 +3,54 @@
   
   <url>
     <loc>https://www.hexin.me/categories/</loc>
-    <lastmod>2019-07-26T17:51:05+08:00</lastmod>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.hexin.me/</loc>
-    <lastmod>2019-07-26T17:51:05+08:00</lastmod>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.hexin.me/post/</loc>
-    <lastmod>2019-07-26T17:51:05+08:00</lastmod>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hexin.me/tags/raft/</loc>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.hexin.me/tags/</loc>
-    <lastmod>2019-07-26T17:51:05+08:00</lastmod>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hexin.me/tags/%E4%B8%80%E8%87%B4%E6%80%A7%E6%80%A7%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hexin.me/categories/%E5%88%86%E5%B8%83%E5%BC%8F/</loc>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.hexin.me/post/2019/07/raft_paper_zh/</loc>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.hexin.me/categories/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2019-07-30T14:18:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,32 +78,8 @@
   </url>
   
   <url>
-    <loc>https://www.hexin.me/tags/raft/</loc>
-    <lastmod>2019-07-26T13:51:05+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.hexin.me/post/2019/07/why-raft-easier-to-understand/</loc>
     <lastmod>2019-07-26T13:51:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.hexin.me/tags/%E4%B8%80%E8%87%B4%E6%80%A7%E6%80%A7%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2019-07-26T13:51:05+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hexin.me/categories/%E5%88%86%E5%B8%83%E5%BC%8F/</loc>
-    <lastmod>2019-07-26T13:51:05+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.hexin.me/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2019-07-26T13:51:05+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
